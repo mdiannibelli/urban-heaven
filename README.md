@@ -1,6 +1,6 @@
 ## Urban Haven - Sneakers E-Commerce 
 Made with ReactJs and Tailwind Css
-
+E-commerce of Sneakers, Sandals, etc with filters like color, category, price and a searcher. It doesn't have responsive, only for practice ReactJs.
 
 # Install dependencies
 ```
