@@ -2,6 +2,8 @@
 Made with ReactJs and Tailwind Css
 E-commerce of Sneakers, Sandals, etc with filters like color, category, price and a searcher. It doesn't have responsive, only for practice ReactJs.
 
+[![imagen-2024-03-14-122311795.png](https://i.postimg.cc/FsSxxLKk/imagen-2024-03-14-122311795.png)](https://postimg.cc/zVJWz3Kq)
+
 # Install dependencies
 ```
   npm install
